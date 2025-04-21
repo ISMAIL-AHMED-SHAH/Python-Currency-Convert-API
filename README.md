@@ -30,7 +30,7 @@ A user-friendly **Currency Converter Web App** built using **Python** and **Stre
 
 ## 🌐 Live App
 
-🔗 [Click to open live demo](https://your-streamlit-link.streamlit.app)
+🔗 [Click to open live demo](https://zi-currency-converter.streamlit.app/)
 
 ---
 
